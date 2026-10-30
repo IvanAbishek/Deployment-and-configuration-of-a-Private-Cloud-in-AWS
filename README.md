@@ -59,12 +59,23 @@ Snap Shot:
  
 
 Snapshot 1: Create VPC
- 
+ <img width="1920" height="1020" alt="Screenshot 2026-10-29 153331" src="https://github.com/user-attachments/assets/8cf2270a-05f9-4f50-a577-a73342f95f46" />
+
+ <img width="1920" height="1020" alt="Screenshot 2026-10-29 153937" src="https://github.com/user-attachments/assets/0025036e-6ac6-4446-bec7-46d9d4237452" />
+
+
 Snapshot 2: Configuring Subnets
- 
+ <img width="1920" height="1020" alt="Screenshot 2026-10-29 154151" src="https://github.com/user-attachments/assets/d611363b-2953-4ee9-a299-6b7b3bcfccce" />
+
+<img width="1920" height="1020" alt="Screenshot 2026-10-29 154521" src="https://github.com/user-attachments/assets/b8c9566a-ffba-478d-b598-2439ac232a7b" />
+
+<img width="1920" height="1020" alt="Screenshot 2026-10-29 154651" src="https://github.com/user-attachments/assets/bb0a4a93-416b-475a-874c-505fde614ed6" />
+
 
 Snapshot 3: Configure Subnets
- 
+ <img width="1920" height="1020" alt="Screenshot 2026-10-29 154658" src="https://github.com/user-attachments/assets/25ecbefe-4cc1-4c9a-9817-77f3ade2c822" />
+
+<img width="1920" height="1020" alt="Screenshot 2026-10-29 160437" src="https://github.com/user-attachments/assets/f5738dc9-13d0-45ac-b450-909cb0b28b32" />
 
 Snapshot 4: Setting Internet gateway
 
@@ -81,21 +92,37 @@ Snapshot 6: Setting Internet gateway
 Snapshot 7: Creating route table
 
  
+<img width="1920" height="1020" alt="Screenshot 2026-10-29 160630" src="https://github.com/user-attachments/assets/b6a7d9b0-9803-4596-87c7-d97a68421c62" />
+
 
 Snapshot 8: Configuring route table
+<img width="1920" height="1020" alt="Screenshot 2026-10-29 160437" src="https://github.com/user-attachments/assets/21d6bfc1-696c-41ef-8278-46dd05009557" />
 
 
- 
+ <img width="1920" height="1020" alt="Screenshot 2026-10-29 160811" src="https://github.com/user-attachments/assets/b6500204-7f67-410b-b81d-e753914b8f2b" />
+
 Snapshot 9: Editing routes
 
- 
+ <img width="1920" height="1020" alt="Screenshot 2026-10-29 160437" src="https://github.com/user-attachments/assets/ef5efe34-5ef4-41b9-ba48-4901349984cf" />
+ <img width="1920" height="1020" alt="Screenshot 2026-10-29 155319" src="https://github.com/user-attachments/assets/7669bff2-930f-4868-8550-cad08c45af05" />
+
+
 Snapshot 10: Creating route table
 
+<img width="1920" height="1020" alt="Screenshot 2026-10-29 160811" src="https://github.com/user-attachments/assets/a4315fa5-5647-4ad0-8c0c-a3b7094d2b1b" />
+
+
+<img width="1920" height="1020" alt="Screenshot 2026-10-29 161031" src="https://github.com/user-attachments/assets/06928fa9-dfb2-47ad-b85c-5ad4114bef0a" />
+
+<img width="1920" height="1020" alt="Screenshot 2026-10-29 161206" src="https://github.com/user-attachments/assets/9626ffac-af44-4854-b493-61e47195b32b" />
+
+<img width="1920" height="1020" alt="Screenshot 2026-10-29 161437" src="https://github.com/user-attachments/assets/cbfe0c2f-59c1-402e-85b7-b5a8185aa361" />
+
+<img width="1920" height="1020" alt="Screenshot 2026-10-29 162137" src="https://github.com/user-attachments/assets/6ae5c7af-6c08-440d-ad35-0932a2205e29" />
 
 
 
-
-
+<img width="1920" height="1020" alt="Screenshot 2026-10-30 133906" src="https://github.com/user-attachments/assets/7d33d73b-d13a-4a73-a42c-20c7f01339c1" />
 
 
 
